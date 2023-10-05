@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rg1Qv9PDIZzs5Wn0TFRdEQuYG60/p1mtb9+kEQltO/s7bP0+Z1e/wbJ7VShTbKdRuBG6Y4eKEOYTSiCTMZWRKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erick\\source\\repos\\front\\front.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}
