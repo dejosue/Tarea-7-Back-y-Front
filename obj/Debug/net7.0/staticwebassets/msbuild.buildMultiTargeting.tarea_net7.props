@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tarea_net7.props" />
+</Project>
